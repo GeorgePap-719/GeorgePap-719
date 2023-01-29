@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @George Papadopoulos
 - I am currently working as a Software engineer developing on JVM backend services using Java/kotlin (big emphasy on kotlin).
-- 👀 I’m interested in building reactive systems. 
-- 🌱 I’m currently learning to design simple yet expressive systems. Also, i'm intrigued by the ins and outs of concurrent/parallel programming.
+- 👀 I’m interested in building reactive systems with simple yet expressive architectures.  
 - 📫 You can reach me at my email george.719pap@gmail.com
 
 
