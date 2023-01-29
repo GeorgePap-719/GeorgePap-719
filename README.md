@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @George Papadopoulos
-- I am currently working as a Software engineer with my main focus on high scalable and low-latency applications.
-- 👀 I’m interested in web applications implemented in java or kotlin. 
-- 🌱 I’m currently learning Blockchain Technologies (Solidity-smart contracts, web3js, react-js, ganache, dapp && defi applications) 
+- I am currently working as a Software engineer developing on JVM backend services using Java/kotlin (big emphasy on kotlin).
+- 👀 I’m interested in building reactive systems. 
+- 🌱 I’m currently learning to design simple yet expressive systems. Also, i'm intrigued by the ins and outs of concurrent/parallel programming.
 - 📫 You can reach me at my email george.719pap@gmail.com
 
 
