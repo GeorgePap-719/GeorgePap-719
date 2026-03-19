@@ -1,10 +1,4 @@
-I’m a Senior Software Engineer who likes digging into how systems really work — from the JVM under the hood to async patterns in Kotlin.
-
-Whether I’m building a geo-spatial backend, leading a messaging platform, or experimenting with coroutine-first design, my goal is the same: **make things reliable, fast, and simple.**
-
-Sometimes I blog on medium and share my experiments here on GitHub.
-
-Exploring: 
-- Async-first systems with coroutines 
-- Custom database ideas in Kotlin
-- Performance and mechanical sympathy
+- 👋 Hi, I’m @George Papadopoulos
+- I am currently working as a Software engineer developing on JVM backend services using Java/kotlin/Groovy.
+- I’m interested in building resilient and distributed systems.  
+- 📫 You can reach me at my email george.719pap@gmail.com
